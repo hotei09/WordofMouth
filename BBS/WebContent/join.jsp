@@ -30,7 +30,7 @@
 		aria-haspopup="true" aria-expended="false">connect<span class="caret"></span></a>
 		<ul class="dropdown-menu">
 		<li><a href="login.jsp">Login</a></li>
-		<li class="active"><a href="join.jsp">join</a></li>
+		<li class="active"><a href="join.jsp">Join</a></li>
 		</ul>
 		</li>
 		</ul>
